@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is written in my school pc.
 <!--
 **aroosalu/aroosalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
